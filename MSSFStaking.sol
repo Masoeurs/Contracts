@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2024-02-18
-*/
-
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.24;
 
